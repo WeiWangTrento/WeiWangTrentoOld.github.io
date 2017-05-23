@@ -18,6 +18,9 @@ Neurocomputing, 2017
 
 # 2016
 
+**Collaborative sparse coding for multiview action recognition**
+IEEE Multimedia Magazine, 2016
+
 **Recurrent Convolutional Face Alignment**
 Asian Conference on Computer Vision (ACCV), 2016 (oral)
 
