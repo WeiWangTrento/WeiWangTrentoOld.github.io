@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### Wei Wang 王伟
+I am currently a thrid-year PhD student in Multimedia and Human Understanding Group [MHUG](http://mhug.disi.unitn.it/index.php/people/) at the Department of Electrical and Computer Engineering, Univeristy of Trento, Italy, directed by [Nicu Sebe](http://disi.unitn.it/~sebe/). My research area is deep learning and its applications in computer vision and multimedia.
 
-You can use the [editor on GitHub](https://github.com/WeiWangTrento/wangwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Research
+I am interested in face analysis (face landmark localization, face aging, expression analysis) and human action understanding (multiview action recongnition).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Google Scholar](https://scholar.google.com/citations?hl=en-US&user=k4SdlbcAAAAJ)
 
-### Markdown
+### News
+:triangular_flag_on_post: No paper accepted in CVPR this year :cry:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Publications
 ```markdown
-Syntax highlighted code block
+# 2017
 
-# Header 1
-## Header 2
-### Header 3
+**Class-wise Dictionary Learning for Hyperspectral Image Classification**
+Neurocomputing, 2017
 
-- Bulleted
-- List
+# 2016
 
-1. Numbered
-2. List
+**Recurrent Convolutional Face Alignment**
+Asian Conference on Computer Vision (ACCV), 2016 (oral)
 
-**Bold** and _Italic_ and `Code` text
+**Collaborative sparse coding for multiview action recognition**
+Asian Conference on Computer Vision (ACCV), 2016 (oral)
 
-[Link](url) and ![Image](src)
+**Projective Unsupervised Flexible Embedding with Optimal Graph**
+British Machine Vision Conference (BMVC), 2016
+
+**Recurrent Face Aging**
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 (oral)
+
+**Category Specific Dictionary Learning for Attribute Specific Feature Selection**
+IEEE Transactions on Image Processing (TIP), 2016
+
+# 2015
+
+**Attribute Guided Dictionary Learning**
+ACM on International Conference on Multimedia Retrieval (ICMR), 2015.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WeiWangTrento/wangwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
