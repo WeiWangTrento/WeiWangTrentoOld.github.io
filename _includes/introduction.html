@@ -1,0 +1,39 @@
+<div class='row'>
+    <div class='col-xs-3'>
+		<div class='photo'>
+			<img src="assets/images/weiwang.png" alt="photo"/>
+		</div>
+	</div>
+	<div class='col-xs-9'> 
+			<h3>
+				Wei Wang 王伟
+			</h3>
+			<p>
+			I am currently a thrid-year PhD student in Multimedia and Human Understanding Group <a href="http://mhug.disi.unitn.it/index.php/people/">[MHUG]</a> at the Department of Electrical and Computer Engineering, Univeristy of Trento, Italy, directed by <a href="http://disi.unitn.it/~sebe/">[Nicu Sebe]</a>. My research area is deep learning and its applications in computer vision and multimedia.
+<!--			My research areas are noncovex/convex optimization, deep learning, compressed sensing, etc.
+-->
+			</p>&nbsp
+			<p>
+			</p>&nbsp
+			<p>
+			
+			<h4>Research</h4> I am interested in face analysis (face landmark localization, face aging, expression analysis) and human action understanding (multiview action recongnition).
+			</p>
+<!--
+			<a href="mailto: wangwei1990 AT gmail DOT com"><i class="fa fa-envelope"></i> &nbsp; wangwei1990 AT gmail DOT com</a>
+			
+			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+			
+			<a href="https://scholar.google.com.sg/citations?hl=en&user=0b7ZqlcAAAAJ" target="_blank"><i class="fa fa-globe"></i> &nbsp; Google Scholar</a>
+			-->
+			{% if site.email %}
+				 <a href="mailto: {{site.email}}"><i class="fa fa-envelope"></i> &nbsp; {{site.email}}</a>
+			{% endif %} 
+			{% if site.website %}
+				&nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp
+                &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp
+				<a  href="https://scholar.google.com/citations?hl=en-US&user=k4SdlbcAAAAJ" target="_blank"><i class="fa fa-globe"></i> &nbsp; {{site.website}}</a>
+			{% endif %} 
+			
+	</div>
+</div>

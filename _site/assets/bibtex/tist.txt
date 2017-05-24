@@ -1,0 +1,10 @@
+@article{wei2016modality,
+  title={Modality-dependent Cross-media Retrieval},
+  author={Wei, Yunchao and Zhao, Yao and Zhu, Zhenfeng and Wei, Shikui
+  and Xiao, Yanhui and Feng, Jiashi and Yan, Shuicheng},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  volume={7},
+  number={4},
+  pages={57},
+  year={2016}
+}

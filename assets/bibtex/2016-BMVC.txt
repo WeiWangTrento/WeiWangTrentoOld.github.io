@@ -1,0 +1,6 @@
+@article{wang2016projective,
+  title={Projective Unsupervised Flexible Embedding with Optimal Graph},
+  author={Wang, Wei and Yan, Yan and Nie, Feiping and Pineda, Xavier Alameda and Yan, Shuicheng and Sebe, Nicu}
+  booktitle={British Machine Vision Conference},
+  year={2016}
+}

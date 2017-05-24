@@ -1,0 +1,53 @@
+<head>
+    <title>ProjectName</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Yunchao Wei's homepage">
+    <link rel="shortcut icon" href="../images/log.png">
+
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/bootstrap-responsive.min.css">
+	<link rel="stylesheet" href="../css/font-awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="../css/main.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<div class="container">
+       <div class="projectheader">
+			<h2>STC: A Simple to Complex Framework for Weakly-supervised Semantic Segmentation</h2>
+
+       </div>
+
+		<h4> Introduction </h4>
+		<p>
+			Recently, significant improvement has been made on semantic object segmentation due to the development of deep convolutional neural networks (DCNNs). Training such a DCNN usually relies on a large number of images with pixel-level segmentation masks, and annotating these images is very costly in terms of both finance and human effort. In this paper, we propose a simple to complex (STC) framework in which only image-level annotations are utilized to learn DCNNs for semantic segmentation. Specifically, we first train an initial segmentation network called Initial-DCNN with the saliency maps of simple images (i.e., those with a single category of major object(s) and clean background). These saliency maps can be automatically obtained by existing bottom-up salient object detection techniques, where no supervision information is needed. Then, a better network called Enhanced-DCNN is learned with supervision from the predicted segmentation masks of simple images based on the Initial-DCNN as well as the image-level annotations. Finally, more pixel-level segmentation masks of complex images (two or more categories of objects with cluttered background), which are inferred by using Enhanced-DCNN and image-level annotations, are utilized as the supervision information to learn the Powerful-DCNN for semantic segmentation. Our method utilizes 40K simple images from Flickr.com and 10K complex images from PASCAL VOC for step-wisely boosting the segmentation network. Extensive experimental results on PASCAL VOC 2012 segmentation benchmark well demonstrate the superiority of the proposed STC framework compared with other state-of-the-arts.
+		</p>
+
+
+		<div class="projectimg">
+			<img alt="" src="../images/stc.png"></td>
+		</div>
+
+		<h4>Downloads</h4>
+
+			<br>
+			<p>Images of Flickr-Clean can be downloaded from <a href="https://drive.google.com/open?id=0B5AHi8MAbKMLQWRVdnRxbzl0RmM"> <b>here</b></a>.</p>
+			<br>
+			<p>Saliency maps of Flickr-Clean can be downloaded from <a href="https://drive.google.com/open?id=0B5AHi8MAbKMLR1IzeDZkUW5LVUE"> <b>here</b></a>.</p>
+
+
+</div>
+</body>
+
+</html>

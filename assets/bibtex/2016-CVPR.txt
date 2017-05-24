@@ -1,0 +1,7 @@
+@inproceedings{wang2016recurrent,
+  title={Recurrent face aging},
+  author={Wang, Wei and Cui, Zhen and Yan, Yan and Feng, Jiashi and Yan, Shuicheng and Shu, Xiangbo and Sebe, Nicu},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={2378--2386},
+  year={2016}
+}

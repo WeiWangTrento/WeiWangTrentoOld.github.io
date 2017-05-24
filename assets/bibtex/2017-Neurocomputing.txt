@@ -1,0 +1,9 @@
+@article{hao2017class,
+  title={Class-wise dictionary learning for hyperspectral image classification},
+  author={Hao, Siyuan and Wang, Wei and Yan, Yan and Bruzzone, Lorenzo},
+  journal={Neurocomputing},
+  volume={220},
+  pages={121--129},
+  year={2017},
+  publisher={Elsevier}
+}

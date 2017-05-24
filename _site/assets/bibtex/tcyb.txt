@@ -1,0 +1,9 @@
+@article{wei2016cross,
+  title={Cross-Modal Retrieval With CNN Visual Features: A New
+  Baseline},
+  author={Wei, Yunchao and Zhao, Yao and Lu, Canyi and Wei, Shikui and
+  Liu, Luoqi and Zhu, Zhenfeng and Yan, Shuicheng},
+  journal={IEEE Transactions on Cybernetics},
+  year={2016},
+  publisher={IEEE}
+}

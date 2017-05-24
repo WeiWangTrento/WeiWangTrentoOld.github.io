@@ -1,0 +1,10 @@
+@article{wang2016category,
+  title={Category specific dictionary learning for attribute specific feature selection},
+  author={Wang, Wei and Yan, Yan and Winkler, Stefan and Sebe, Nicu},
+  journal={IEEE Transactions on Image Processing},
+  volume={25},
+  number={3},
+  pages={1465--1478},
+  year={2016},
+  publisher={IEEE}
+}

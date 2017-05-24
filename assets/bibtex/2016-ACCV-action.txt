@@ -1,0 +1,8 @@
+@article{wang2016sparse,
+  title={Sparse Code Filtering for Action Pattern Mining},
+  author={Wang, Wei and Yan, Yan and Nie, Liqiang and Zhang, Luming and Winkler, Stefan and Sebe, Nicu}
+  booktitle={Asian Conference on Computer Vision},
+  pages={3–18},
+  year={2016},
+  organization={Springer}
+}

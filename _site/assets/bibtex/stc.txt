@@ -1,0 +1,7 @@
+@article{wei2016stc,
+title={STC: A simple to complex framework for weakly-supervised semantic segmentation},
+author={Wei, Yunchao and Liang, Xiaodan and Chen, Yunpeng and Shen,
+Xiaohui and Cheng, Ming-Ming and Feng, Jiashi and Zhao, Yao and Yan, Shuicheng},
+journal={IEEE Transactions on Pattern Recognition and Machine Intelligence},
+year={2016}
+}

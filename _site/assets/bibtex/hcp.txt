@@ -1,0 +1,9 @@
+@article{wei2014hcp,
+title={HCP: A Flexible CNN Framework for Multi-Label Image Classification},
+author={Wei, Yunchao and Xia, Wei and Lin, Min and Huang, Junshi and Ni, Bingbing and Dong, Jian and Zhao, Yao and Yan,	Shuicheng},
+journal={IEEE Transactions on Pattern Recognition and Machine Intelligence},
+volume={38},
+number={9},
+pages={1901--1907},
+year={2016}
+}

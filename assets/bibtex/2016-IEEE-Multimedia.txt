@@ -1,0 +1,10 @@
+@article{wang2016collaborative,
+  title={Collaborative sparse coding for multiview action recognition},
+  author={Wang, Wei and Yan, Yan and Zhang, Luming and Hong, Richang and Sebe, Nicu},
+  journal={IEEE MultiMedia},
+  volume={23},
+  number={4},
+  pages={80--87},
+  year={2016},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{wang2015attribute,
+  title={Attribute guided dictionary learning},
+  author={Wang, Wei and Yan, Yan and Sebe, Nicu},
+  booktitle={Proceedings of the 5th ACM on International Conference on Multimedia Retrieval},
+  pages={211--218},
+  year={2015},
+  organization={ACM}
+}
